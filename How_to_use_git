@@ -1,0 +1,10 @@
+####-------------------push----- 
+
+1.echo "# zhihu_demo" >> README.md
+2.git init
+3.git add README.md
+4.git commit -m "first commit"
+5.git remote add origin https://github.com/JeffreySimon/zhihu_demo.git
+6.
+git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git
+git remote set-url origin https://ghp_gAddZfDliXUmCCYpkuMeiOhbXA2ybO0APKL@github.com/JeffreySimon/zhihu_demo.git
